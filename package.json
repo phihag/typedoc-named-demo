@@ -13,5 +13,6 @@
     "doc": "typedoc --out doc --noEmit --excludeNotDocumented"
   },
   "author": "Philipp Hagemeister",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true
 }
