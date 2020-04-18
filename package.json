@@ -1,0 +1,17 @@
+{
+  "name": "typedoc-named-demo",
+  "description": "demo for named parameters with typedoc",
+  "main": "demo.js",
+  "types": "index.d.ts",
+  "homepage": "https://stackoverflow.com/q/61294426/35070",
+  "dependencies": {},
+  "devDependencies": {
+    "typedoc": "^0.17.4",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "doc": "typedoc --out doc --noEmit --excludeNotDocumented"
+  },
+  "author": "Philipp Hagemeister",
+  "license": "MIT"
+}
