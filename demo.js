@@ -1,5 +1,6 @@
 /**
  * FOO
+ * @param {Object} __namedParameters various options
  * @param {Number} foo An interesting value
  * @param {Number} __namedParameters.bar Another value
  */
